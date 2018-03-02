@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "EcEIHFiM/4SVl2/5fAHfhiXchLM=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "5890359fb7194c7b6a139fa0ea3822a07827a675",
+			"revisionTime": "2018-03-02T07:14:49Z"
+		},
+		{
+			"path": "google.golang.org/appengine/cloudsql",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/mkxzy/mysql-go"
+}
